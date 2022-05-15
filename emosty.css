@@ -1,0 +1,81 @@
+@charset "utf-8";
+.主樣式 {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 10px;
+    padding-bottom: 11px;
+}
+.BG .BGC {
+    background-color: rgba(226,226,226,0.28);
+}
+
+.BG {
+    background-image: url(Season3_3840x2160.png);
+    background-repeat: repeat-y;
+}
+
+.主樣式 header h1 {
+    border-radius: 12px 12px 0px 0px;
+    text-align: left;
+    padding-left: 44px;
+    padding-right: 84px;
+    width: 794px;
+    margin-left: auto;
+    margin-right: auto;
+    background-position: -76% 12%;
+    background-size: 98% auto;
+    -webkit-box-shadow: 4px 6px 13px;
+    box-shadow: 4px 6px 13px;
+    background-image: url(ER_3840x2160.png);
+    color: #D2B1CE;
+    padding-top: 25px;
+    padding-bottom: 7px;
+}
+.主樣式 header {
+}
+.主樣式 header .頭至中 {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 268px;
+}
+
+
+header h2 a:link {
+    color: #9F900C;
+    text-decoration: none;
+    text-align: center;
+    background-color: rgba(48,48,48,0.92);
+    margin-top: 1px;
+    margin-right: 1px;
+    margin-bottom: 1px;
+    margin-left: 1px;
+    padding-left: 8px;
+    padding-top: 8px;
+    padding-right: 8px;
+    padding-bottom: 8px;
+    border-radius: 18px;
+}
+header h2 a:hover  {
+    color: #744007;
+    text-decoration: underline;
+    text-align: center;
+    width: 500px;
+    background-color: #C7E7EC;
+}
+.主樣式 .附註 {
+    color: #AAAAAA;
+    text-align: center;
+    text-decoration: none;
+    font-size: 12px;
+}
+main article .基礎中 {
+    margin-left: 182px;
+}
+.主樣式 main article {
+    background-color: rgba(153,153,153,0.84);
+    border-radius: 17px;
+    padding-left: 50px;
+    padding-top: 3px;
+    padding-bottom: 4px;
+}
